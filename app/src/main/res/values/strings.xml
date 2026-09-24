@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodePathMail</string>
+    <string name="load_more">Load More</string>
+    <string name="sender_image">Sender image</string>
+</resources>
